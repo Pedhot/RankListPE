@@ -1,0 +1,44 @@
+#Config pdtRankList By Pedhot
+
+ranklist:
+  title-form: RankList By Pedhot
+  content: Welcome to RankList
+
+exit:
+  title: RankList
+  subtitle: Bye
+  message: RankList By Pedhot
+  button:
+    name: Exit
+    image-type: 0
+    image-url: textures/ui/cancel
+    
+back:
+  button-name: Back
+  image-type: 0
+  image-url: textures/ui/cancel
+    
+rank-one:
+  title-form: Rank One
+  button-name: Rank One
+  image-type: 0
+  image-url: textures/ui/recipe_book_icon
+  
+rank-two:
+  title-form: Rank Two
+  button-name: Rank Two
+  image-type: 0
+  image-url: textures/ui/recipe_book_icon
+  
+rank-three:
+  title-form: Rank Three
+  button-name: Rank Three
+  image-type: 0
+  image-url: textures/ui/recipe_book_icon
+
+rank-four:
+  title-form: Rank Four
+  button-name: Rank Four
+  image-type: 0
+  image-url: textures/ui/recipe_book_icon
+    

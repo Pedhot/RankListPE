@@ -1,0 +1,13 @@
+name: RankListPE
+main: pedhot\RankListPE\Main
+api: 
+- 3.0.0
+version: 1.0
+author: Pedhott
+website: https://github.com/pedhot
+
+commands: 
+  ranklist: 
+    description: Open RankList
+    usage: /ranklist
+    aliases: [rl]
